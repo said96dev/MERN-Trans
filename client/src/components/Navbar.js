@@ -5,7 +5,6 @@ import { FiSettings } from 'react-icons/fi'
 import { AppContext } from '../context/appContext'
 import NavLinks from './NavLinks'
 /* import {IoIosNotifications } from "react-icons/io" */
-import { MdUpdate } from 'react-icons/md'
 import { IoLogOut } from 'react-icons/io5'
 import { Link } from 'react-router-dom'
 
